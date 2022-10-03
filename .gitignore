@@ -1,0 +1,11 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/DirectoryFinder/v17
+/DirectoryFinder/bin/Debug/net6.0
+/DirectoryFinder/obj
+/DirectoryFinder.Impl/bin/Debug/net6.0
+/DirectoryFinder.Impl/obj
+/DirectoryFinder.Test/bin/Debug/net6.0
+/DirectoryFinder.Test/obj
